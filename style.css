@@ -1,0 +1,14 @@
+.save-button {
+    background-color: rgb(255, 5, 5);
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font: size 16px;
+    cursor:pointer;
+    opacity:0.8;
+    transition:opacity 0.3s ease;
+    border-radius: 5%;
+}
+.save-button:hover {
+    opacity: 1;
+}
